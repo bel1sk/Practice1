@@ -82,6 +82,7 @@ namespace FileManagerImitation
 
             Console.SetCursorPosition(82, 1);
             Console.Write("Размер");
+            //test
 
             Console.SetCursorPosition(96, 1);
             Console.Write("Дата");
